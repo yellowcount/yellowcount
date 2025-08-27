@@ -44,13 +44,15 @@ I turn ☕ into code, bugs into features, and ideas into reality.
 
 ## 📊 GitHub Stats
 
+<!-- Streak Card: Total Contributions, Current Streak, Longest Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowcount&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="210"/>
+</p>
+
+<!-- Github Readme Stats & Top Langs -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yellowcount&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowcount&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yellowcount&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
